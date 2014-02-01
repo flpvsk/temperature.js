@@ -18,5 +18,10 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/filipovskii/temperature.js/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "jsdom": "~0.8.11",
+    "kew": "~0.3.2"
   }
 }
