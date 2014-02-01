@@ -1,0 +1,21 @@
+{
+  "name": "temperature.js",
+  "version": "0.0.0",
+  "authors": [
+    "filipovsky <filipovskii.off@gmail.com>"
+  ],
+  "description": "Site heatmap generator.",
+  "main": "temperature.js",
+  "keywords": [
+    "analytics",
+    "heatmap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

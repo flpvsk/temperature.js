@@ -1,0 +1,22 @@
+{
+  "name": "temperature.js",
+  "version": "0.0.0",
+  "description": "Site heatmap generator.",
+  "main": "temperature.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:filipovskii/temperature.js.git"
+  },
+  "keywords": [
+    "analytics",
+    "heatmap"
+  ],
+  "author": "filipovsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filipovskii/temperature.js/issues"
+  }
+}
